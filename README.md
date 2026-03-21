@@ -11,30 +11,25 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1013" height="683" alt="image" src="https://github.com/user-attachments/assets/30e5b846-29e2-494d-b81e-70b418d9f10e" />
 
 ## DESIGN STEPS
 ### STEP 1: 
-
-Write your own steps
+Import the necessary Python libraries and load the dataset into the workspace and Perform data preprocessing by handling missing values, encoding categorical variables, and scaling the features.
 
 ### STEP 2: 
-
-
+Split the dataset into training and testing datasets for model evaluation.
 
 ### STEP 3: 
-
+Define the neural network architecture with input, hidden, and output layers using PyTorch.
 
 
 ### STEP 4: 
-
+Initialize the loss function and optimizer, then train the neural network using the training dataset.
 
 
 ### STEP 5: 
-
-
-
-### STEP 6: 
+Evaluate the trained model using test data and compute performance metrics such as accuracy, confusion matrix, and classification report.
 
 
 
